@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1420315730 source:f:\making\programming\facultylabs\connectfour\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
